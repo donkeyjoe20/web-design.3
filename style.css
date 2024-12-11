@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif
+}
+.box1{
+    background-color: blue;
+    color: aqua;
+    border: 15 solid red;
+    margin: 33px;
+    padding: 20px;
+}
+
+.box2{
+    background-color: brown;
+    color: deepskyblue;
+    font-family: serif;
+    border: 15 dotted red;
+    margin: 33px;
+    padding: 20px;
+}
+.container{
+    background-color: aliceblue;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 15 solid red;
+    margin: 33px;
+    padding: 20px;
+}
+
